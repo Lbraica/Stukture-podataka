@@ -12,7 +12,7 @@ E. čita listu iz datoteke.*/
 
 #define FILE_DIDNT_OPEN_ERROR (-1)
 #define MAX_LINE (1024)
-#define MEMORY_NOT_ALLOCATED_CORRECT (-1)
+#define MEMORY_NOT_ALLOCATED_CORRECT (-1);
 
 struct _person;
 typedef struct _person* position;
