@@ -1,5 +1,0 @@
-IME     PREZIME     BROJ BODOVA
-Ana     Anic        34
-Pero    Peric       29
-Luka    Lukic       47
-Toma    Tomic       44
